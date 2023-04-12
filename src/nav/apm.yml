@@ -223,6 +223,8 @@ pages:
                 path: /docs/apm/agents/java-agent/api-guides/java-agent-api-custom-instrumentation-annotation-example-app
               - title: 'API: External datastore calls and distributed tracing'
                 path: /docs/apm/agents/java-agent/api-guides/java-agent-api-instrumenting-example-app-external-datastore-calls-dt
+              - title: 'API: Error Grouping'
+                path: /docs/apm/agents/java-agent/api-guides/java-agent-api-register-error-group-callback-to-set-fingerprint
           - title: Troubleshooting
             path: /docs/apm/agents/java-agent/troubleshooting
             pages:
@@ -1349,7 +1351,7 @@ pages:
             path: /docs/apm/applications-menu/events/view-alert-history
           - title: Thread profiler tool
             path: /docs/apm/apm-ui-pages/events/thread-profiler-tool
-      - title: Errors  
+      - title: Errors
         path: /docs/errors-inbox/apm-tab
       - title: Legacy errors
         path: /docs/apm/apm-ui-pages/error-analytics/errors-page-find-fix-verify-problems
